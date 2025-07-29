@@ -12,4 +12,5 @@ dependencies = [
     "opencv-contrib-python>=4.11.0.86",
     "opencv-python>=4.11.0.86",
     "python-dotenv>=1.1.1",
+    "scikit-learn>=1.7.1",
 ]
