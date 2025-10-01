@@ -16,3 +16,6 @@ More details can be found in our paper, which you can read here: [FishSense Mobi
 
 ## Demo Video
 [![FishSense Mobile Demo](https://img.youtube.com/vi/SoDq8hiAras/0.jpg)](https://www.youtube.com/watch?v=SoDq8hiAras)
+
+## Presentation
+You can download the conference presentation here: [FishSense Mobile: A Mobile Device App for On-Deck Fisheries Management Operations](presentation.pptx)
